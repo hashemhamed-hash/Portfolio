@@ -22,7 +22,7 @@ header{
     padding: 12px;
 }
 img{
-    max-width: 70%;
+    max-width: 60%;
     border-radius: 1rem;
 }
 #about{
@@ -90,13 +90,12 @@ footer{
 
 
     .project-card {
-        width: 80%;
+        max-width: 80%;
     }
 
 
     img {
-        height: 220px;
-        width: 280px;
+        height: 200px;
         border-radius: 1rem;
     }
 }
