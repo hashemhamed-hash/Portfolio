@@ -13,6 +13,7 @@ body{
 .nav-button{
     color: black;
     gap: 10px;
+    text-decoration: none;
 }
 .nav-button:hover{
     background-color: #caf0f8;
@@ -26,7 +27,7 @@ header{
     padding: 12px;
 }
 img{
-    max-width: 50%;
+    max-width: 100%;
     border-radius: 1rem;
 }
 #about{
@@ -76,6 +77,18 @@ footer{
         font-size: 24px;
     }
 
+    #about{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+    .AboutText{
+        grid-column: 1 / span 2;
+    }
+    .AboutPicture{
+        grid-column: 3 / span 1;
+        width: 100%;
+        height: 100%;
+    }
 
     .center {
         display: flex;
@@ -85,18 +98,15 @@ footer{
         gap: 5px;
     }
 
-
     #projects {
         display: flex;
         flex-direction: row;
     
     }
 
-
     .project-card {
         max-width: 80%;
     }
-
 
     img {
         height: 200px;
