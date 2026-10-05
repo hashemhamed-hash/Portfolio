@@ -61,3 +61,11 @@ Olika skärmstorlekar
 Hover 
 
 
+![Validerings_bevis_index](images/Skärmbild%202026-10-05%20100003.png)
+![Validerings_bevis_about](images/Skärmbild%202026-10-05%20100017.png)
+![Validerings_bevis_skills](images/Skärmbild%202026-10-05%20100113.png)
+![Validerings_bevis_projects](images/Skärmbild%202026-10-05%20100134.png)
+![Validerings_bevis_contact](images/Skärmbild%202026-10-05%20100149.png)
+![Validerings_bevis_style.css](images/Skärmbild%202026-10-05%20095850.png)
+
+

@@ -81,9 +81,6 @@ footer{
         display: grid;
         grid-template-columns: repeat(3, 1fr);
     }
-    .AboutText{
-        grid-column: 1fr ;
-    }
     .AboutPicture{
         grid-column: 3 / span 1;
         width: 100%;
